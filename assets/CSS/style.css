@@ -147,36 +147,34 @@ table{
 @media(min-width:1224px){
 
 body{
-    background-color: var(--Rose50);
+    background-color: var(--Stone100);
     display: flex;
     justify-content: center;
     
 }
 
 main{
-    width: 45%;
+    width: 50%;
      max-height: 150vh;
-     margin-top: 3rem;    
+     margin-top: 4rem;    
  }
 
  .recipe-article-omelette{
      max-width: 100%;
      background-color: var(--White);
-     padding-top: 1.4rem ;
-     
-     padding-right: ;
+     padding-top: 2rem ;
      border-radius: 0.8rem;
  }
  figure{
      max-width: 100%;
      margin-bottom: 1rem;
-     margin-left: 1.5rem;
-     margin-right: 1.5rem;
-     height: 15rem;
+     margin-left: 2rem;
+     margin-right: 2rem;
+     height: 18rem;
  }
  img{
      width: 100%;
-     height: 15rem;
+     height: 18rem;
      border-radius: 0.5rem;
  }
  .introduction-recipe-omelette h1{
@@ -195,7 +193,7 @@ main{
     font-weight: 800;
  }
 .sec{
-    margin-left: 1.5rem;
-    margin-right:1.5rem ;
+    margin-left: 2rem;
+    margin-right:2rem ;
 }
 }
